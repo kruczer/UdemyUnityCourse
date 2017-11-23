@@ -39,7 +39,7 @@ public class NumberWizard : MonoBehaviour
         min = 1;
         guess = 500;
         print("-------------------------");
-        print("Welcome to Number Wizzzzard!");
+        print("Welcome to Number Wizard!");
         print("Pick a number in your head hbut don't tell me!");
         print("The highest number you can pick is " + max.ToString());
         print("The lowest number you can pick is " + min.ToString());
